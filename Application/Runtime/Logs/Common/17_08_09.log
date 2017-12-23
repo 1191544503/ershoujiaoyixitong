@@ -1,0 +1,138 @@
+[ 2017-08-09T11:15:06+08:00 ] ::1 /huabanshe/pic01.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000520s ]
+ERR: 无法加载模块:Pic01
+
+[ 2017-08-09T11:15:06+08:00 ] ::1 /huabanshe/semantic.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000524s ]
+ERR: 无法加载模块:Semantic.min
+
+[ 2017-08-09T11:15:06+08:00 ] ::1 /huabanshe/semantic.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000495s ]
+ERR: 无法加载模块:Semantic.min
+
+[ 2017-08-09T11:15:06+08:00 ] ::1 /huabanshe/jquery-3.2.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000547s ]
+ERR: 无法加载模块:Jquery-3.2.1.min
+
+[ 2017-08-09T11:15:06+08:00 ] ::1 /huabanshe/pic01.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000364s ]
+ERR: 无法加载模块:Pic01
+
+[ 2017-08-09T11:15:06+08:00 ] ::1 /huabanshe/pic05.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000514s ]
+ERR: 无法加载模块:Pic05
+
+[ 2017-08-09T11:17:33+08:00 ] ::1 /huabanshe/pic01.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000618s ]
+ERR: 无法加载模块:Pic01
+
+[ 2017-08-09T11:17:33+08:00 ] ::1 /huabanshe/pic01.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000305s ]
+ERR: 无法加载模块:Pic01
+
+[ 2017-08-09T11:19:33+08:00 ] ::1 /huabanshe/pic01.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000337s ]
+ERR: 无法加载模块:Pic01
+
+[ 2017-08-09T11:19:33+08:00 ] ::1 /huabanshe/pic01.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000563s ]
+ERR: 无法加载模块:Pic01
+
+[ 2017-08-09T11:19:34+08:00 ] ::1 /huabanshe/pic01.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000329s ]
+ERR: 无法加载模块:Pic01
+
+[ 2017-08-09T11:19:35+08:00 ] ::1 /huabanshe/pic01.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000526s ]
+ERR: 无法加载模块:Pic01
+
+[ 2017-08-09T11:19:35+08:00 ] ::1 /huabanshe/pic01.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000552s ]
+ERR: 无法加载模块:Pic01
+
+[ 2017-08-09T11:19:35+08:00 ] ::1 /huabanshe/pic01.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000506s ]
+ERR: 无法加载模块:Pic01
+
+[ 2017-08-09T11:19:36+08:00 ] ::1 /huabanshe/pic01.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000516s ]
+ERR: 无法加载模块:Pic01
+
+[ 2017-08-09T11:19:36+08:00 ] ::1 /huabanshe/pic01.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000330s ]
+ERR: 无法加载模块:Pic01
+
+[ 2017-08-09T11:21:45+08:00 ] ::1 /huabanshe/pic01.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000340s ]
+ERR: 无法加载模块:Pic01
+
+[ 2017-08-09T11:21:45+08:00 ] ::1 /huabanshe/pic01.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000385s ]
+ERR: 无法加载模块:Pic01
+
+[ 2017-08-09T14:24:38+08:00 ] ::1 /huabanshe/index.php/Usermin/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000381s ]
+ERR: 无法加载模块:Usermin
+
+[ 2017-08-09T14:25:00+08:00 ] ::1 /huabanshe/index.php/Usermin/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000854s ]
+ERR: 无法加载模块:Usermin
+
+[ 2017-08-09T14:25:19+08:00 ] ::1 /huabanshe/index.php/Usermin/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+ERR: 无法加载模块:Usermin
+
+[ 2017-08-09T14:25:33+08:00 ] ::1 /huabanshe/index.php/Usermin/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000364s ]
+ERR: 无法加载模块:Usermin
+
+[ 2017-08-09T14:26:14+08:00 ] ::1 /huabanshe/index.php/Usermin/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001052s ]
+ERR: 无法加载模块:Usermin
+

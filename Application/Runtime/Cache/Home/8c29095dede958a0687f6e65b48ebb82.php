@@ -1,0 +1,34 @@
+<?php if (!defined('THINK_PATH')) exit();?><!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="keywords" content="二手滑板估价,个人二手滑板转让" />
+    <meta name="description" content="民大二手滑板直卖网，汇集二手滑板买卖信息,私人二手滑板转让，是您买卖二手滑板的理想平台。" />
+    <title>滑板车交易网</title>
+    <link rel="icon" href="/huabanshe/Public/img/pic09.jpg">
+    <link rel="stylesheet" href="/huabanshe\Application\Home\View\Index\semantic.min.css" media="screen" title="no title" charset="utf-8">
+    <script type="text/javascript" src="/huabanshe\Application\Home\View\Index\jquery-3.2.1.min.js"></script>
+    <script type="text/javascript" src="/huabanshe\Application\Home\View\Index\semantic.min.js"></script>
+</head>
+
+<body>
+    <div class="ui menu">
+        <a class="item" href="<?php echo U('/main');?>"><i class="red home icon"></i>首页</a>
+        <a class="item" href="<?php echo U('/list');?>"><i class="orange grid layout icon"></i>所有滑板车</a>
+        <!-- 登录前显示    开始  -->
+        <div class="right menu">
+            <a class="item" href="<?php echo U('/Home/Usermin/toGiveAdminhtml');?>"><i class="yellow user icon"></i>权限给予</a>
+            <a class="item" href="<?php echo U('/Home/Store/adminstorelist');?>"><i class="yellow user icon"></i>查看商品</a>
+            <a class="item" href="<?php echo U('/Home/Notice/addNoticehtml');?>"><i class="olive sign in icon"></i>发布公告</a>
+            <a class="item" href="<?php echo U('/Home/index/index');?>"><i class="olive sign in icon"></i>返回前台</a>
+        </div>
+
+    </div>
+
+</body>
+
+</html>

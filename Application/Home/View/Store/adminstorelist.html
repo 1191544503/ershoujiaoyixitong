@@ -1,0 +1,32 @@
+<html>
+
+
+<body>
+    <h1 align="center">商品列表</h1>
+    <table align="center" width="1300" cellspacing="12" border="1">
+        <tr>
+            <td>卖家</td>
+            <td>商品名字</td>
+            <td width="100px" height="50">简介</td>
+            <td>价格</td>
+            <td>卖家联系方式</td>
+            <td>图片</td>
+        </tr>
+        <foreach name="data" item="li">
+            <tr>
+                <td>{$li.username}</td>
+                <td>{$li.goodsname}</td>
+                <td>{$li.introduce}</td>
+                <td>{$li.price}</td>
+                <td>{$li.phone}</td>
+                <td><img src="__PUBLIC__/image/{$li.image}"></td>
+                <td>
+                    <a href="{:U('Home/Store/Delete',array('id'=>$li['id'],'username'=>$li['username']))}">删除</a>
+                </td>
+            </tr>
+        </foreach>
+    </table>
+
+</body>
+
+</html>

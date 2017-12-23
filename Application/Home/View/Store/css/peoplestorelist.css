@@ -1,0 +1,134 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    /*background: -webkit-linear-gradient( top, rgba(50, 50, 255, 0.7) , #fff);
+  background: -o-linear-gradient(top, rgba(50, 50, 255, 0.7),  #fff);
+  background: -moz-linear-gradient(top, rgba(50, 50, 255, 0.7),  #fff);
+  background: linear-gradient(to bottom , rgba(50, 50, 255, 0.7) ,  #fff);
+  */
+    /*  background: -webkit-linear-gradient(left, red, orange, yellow, green, blue, #dc00ff);
+    /* Safari 5.1 - 6.0 */
+    /*    background: -o-linear-gradient(right, red, orange, yellow, green, blue, #dc00ff);
+    /* Opera 11.1 - 12.0 */
+    /*    background: -moz-linear-gradient(right, red, orange, yellow, green, blue, #dc00ff);
+    /* Firefox 3.6 - 15 */
+    /*  background: linear-gradient(to right, red, orange, yellow, green, blue, #dc00ff);
+    /* 标准的语法 */
+}
+
+h1 {
+    color: #fff;
+    text-shadow: 0 1px 0 #ccc, 0 2px 0 #c9c9c9, 0 3px 0 #bbb, 0 4px 0 #b9b9b9, 0 5px 0 #aaa, 0 6px 1px rgba(0, 0, 0, 0.1), 0 0 5px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.3), 0 3px 5px rgba(0, 0, 0, 0.2), 0 5px 10px rgba(0, 0, 0, 0.25);
+    /*  background: -webkit-linear-gradient(left, red, orange, yellow, green, blue, #dc00ff);
+    /* Safari 5.1 - 6.0 */
+    /* background: -o-linear-gradient(right, red, orange, yellow, green, blue, #dc00ff);
+    /* Opera 11.1 - 12.0 */
+    /*   background: -moz-linear-gradient(right, red, orange, yellow, green, blue, #dc00ff);
+    /* Firefox 3.6 - 15 */
+    /*   background: linear-gradient(to right, red, orange, yellow, green, blue, #dc00ff);
+    /* 标准的语法 */
+}
+
+section {
+    background: #ccc;
+    width: 80%;
+    min-width: 800px;
+    margin: 0 auto;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    position: relative;
+    list-style: none;
+    float: left;
+    display: block;
+    width: 25%;
+    height: 380px;
+    padding: 10px;
+    background: rgba(255, 255, 255, 0.7);
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+.delete a {
+    display: block;
+    position: absolute;
+    top: 30px;
+    right: -60px;
+    width: 60px;
+    height: 30px;
+    background: #fff;
+    transition: right .7s;
+    z-index: 15;
+    color: rgba(255, 20, 20, 0.7);
+    text-align: center;
+    line-height: 30px;
+    font-weight: 700;
+    letter-spacing: 2px;
+}
+
+li:hover .delete>a {
+    right: 0;
+}
+
+.delete:hover {
+    border: 1px solid #f00;
+}
+
+li:hover {
+    -webkit-box-shadow: 1px 1px 15px 2px rgba(0, 0, 0, 0.5);
+    -moz-box-shadow: 1px 1px 15px 2px rgba(0, 0, 0, 0.5);
+    box-shadow: 1px 1px 15px 2px rgba(0, 0, 0, 0.5) inset 0 0 5px rgba(0, 0, 0, 0.7);
+}
+
+img {
+    height: 200px;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    font-size: 0;
+}
+
+.money {
+    font-size: 22px;
+    font-weight: bolder;
+    color: rgba(241, 58, 58, 0.7);
+}
+
+.money::after {
+    content: 'RMB';
+    font-size: 16px;
+    font-weight: lighter;
+}
+
+li a {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    color: #222;
+}
+
+.desc {
+    overflow: hidden;
+}
+
+footer {
+    margin: 20px 0 0 0;
+    display: block;
+    float: left;
+    height: 120px;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.44);
+    text-align: center;
+    line-height: 120px;
+    color: #fff;
+}
